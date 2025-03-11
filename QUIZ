@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widht=device-width,initial-scale=1.0">
+    <title>Pemrograman Web 2</title>
+</head>
+<body>
+    <center>    
+    <img src="Aquarium.jpeg"height="200px" width="200px">
+    <br>
+
+    <table border="1" cellspacing="0" cellpadding="9">
+        <tr>
+            <div class="navbar">
+                
+              
+            </div>
+            
+            <div id="profil" class="content">
+                <div class="profile-card">
+                    <p>Perkenalkan Saya</p>
+                    <h2>Egista Fatmawati</h2>
+                    <p>NPM 2357051002</p>
+                    <p>Jurusan Ilmu Komputer</p>
+                    <p>Universitas Lampung</p>
+
+                    <form action="lihat jadwall.html" method="POST">
+                        <center><button style="background-color: rgb(62, 160, 218);">Lihat Jadwal</button></center>
+                        </form>
+
+                </div>
+            </div>
+            
+            <div id="jadwal" class="content hidden">
+             
+        </tr>
+        <tr>
+        </center>
